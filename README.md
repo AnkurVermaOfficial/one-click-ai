@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Add your hugging face API KEY to the generate.js file.
+Add your Gemini API KEY to the askai.js file.
 
 ## Available Scripts
 
